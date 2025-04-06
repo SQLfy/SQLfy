@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SQLfy
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Kusto (KQL), Databricks, Notebooks, Azure Document Intelligence, Azure Search
-- Microsoft Certified Power BI Data Analyst
+- I'm a Microsoft Certified Power BI Data Analyst
 - 📫 How to reach me:  For now leave me a message here on Git Hub Comments
 
 <!---
